@@ -1,3 +1,4 @@
+![screenshot](images/screenshot.gif)
 
     The Network Simulator, Version 3.25
     --------------------------------
